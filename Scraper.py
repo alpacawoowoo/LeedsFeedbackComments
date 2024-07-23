@@ -1,4 +1,6 @@
-$ cat runtime.txt
+import scraperwiki
+import time
+import sys
 import requests
 from bs4 import BeautifulSoup
 
