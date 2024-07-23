@@ -1,6 +1,4 @@
 $ cat runtime.txt
-python-3.12.4
-
 import requests
 from bs4 import BeautifulSoup
 
